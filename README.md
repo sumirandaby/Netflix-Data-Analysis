@@ -1,6 +1,6 @@
 # Netflix Data Analysis
 
-## 📌 Project Overview
+📌 Project Overview
 
 This project performs an exploratory data analysis (EDA) on the Netflix titles dataset obtained from Kaggle. The goal is to analyze Netflix's content library and 
 identify patterns and trends related to movies, TV shows, genres, ratings, release years, countries, and content additions over time.
