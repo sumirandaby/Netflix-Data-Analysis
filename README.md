@@ -9,9 +9,9 @@ The analysis was performed using Python and focuses on data cleaning, exploratio
 
 🛠️ Tech Stack
 
-Python - As primary langauge
-Pandas – Data manipulation and analysis
-NumPy – Numerical operations
+Python - As primary langauge<br>
+Pandas – Data manipulation and analysis<br>
+NumPy – Numerical operations<br>
 upyter Notebook / VS Code – Development environment
 
 📂 Dataset
@@ -38,6 +38,5 @@ The dataset contains information about Netflix titles, including:
 * Performed end-to-end exploratory data analysis
 * Cleaned and transformed real-world dataset
 * Used Pandas and NumPy for data manipulation
-* Created visualizations using Matplotlib and Seaborn
 * Extracted meaningful patterns and trends from the data
 * Practiced working with missing and categorical data
