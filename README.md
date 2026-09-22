@@ -38,6 +38,5 @@ The dataset contains information about Netflix titles, including:
 * Performed end-to-end exploratory data analysis
 * Cleaned and transformed real-world dataset
 * Used Pandas and NumPy for data manipulation
-* Created visualizations using Matplotlib and Seaborn
 * Extracted meaningful patterns and trends from the data
 * Practiced working with missing and categorical data
